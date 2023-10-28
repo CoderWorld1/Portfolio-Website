@@ -33,7 +33,10 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 64px;
+  height: 60px;
+  border-radius: 15px;
+  margin-top: 4px;
+  background-color: black;
 }
 
 .menu-items {
@@ -47,7 +50,7 @@ header {
 
 .menu-items a {
   text-decoration: none;
-  color: #f0f0e6;
+  color: white;
   font-size: 1.2rem;
   padding: 0.3rem;
 }
