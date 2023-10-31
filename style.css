@@ -121,7 +121,7 @@ header {
   height: 200px;
   width: 150px;
   object-fit: cover;
-  border-radius: 40%;
+  border-radius: 20%;
 }
 
 .about-content p {
