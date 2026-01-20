@@ -204,7 +204,7 @@ header {
 }
 
 .progress-line .css {
-  width: 70%;
+  width: 80%;
 }
 
 .progress-line .bootstrap {
@@ -212,11 +212,11 @@ header {
 }
 
 .progress-line .javascript {
-  width: 50%;
+  width: 80%;
 }
 
 .progress-line .c {
-  width: 50%;
+  width: 70%;
 }
 
 .bar .progress-line span::before {
